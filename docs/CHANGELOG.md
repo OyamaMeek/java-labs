@@ -19,6 +19,6 @@
   - `memory/gotchas.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交**：待提交。
+- **Git 提交**：`e1e666b docs: explain circle area exercise with Chinese comments`。
 
 ---
